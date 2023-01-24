@@ -1,2 +1,2 @@
-# systemc
-WaveJSON -> SystemC converter
+WaveJSON as executable spec
+
