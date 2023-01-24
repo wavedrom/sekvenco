@@ -5,3 +5,4 @@
 
 WaveJSON as executable spec
 
+Guide: https://observablehq.com/@drom/sekvenco
