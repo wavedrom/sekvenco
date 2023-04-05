@@ -1,5 +1,5 @@
 
-Schlor, Rainer, and Werner Damm. "Specification and verification of system-level hardware designs using time diagrams." 1993 European Conference on Design Automation with the European Event in ASIC Design. IEEE, 1993. [->](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=c603928014c68840408f4ee642b5ff92973f0eed)
+Schlor, Rainer, and Werner Damm. "Specification and verification of system-level hardware designs using time diagrams." 1993 European Conference on Design Automation with the European Event in ASIC Design. IEEE, 1993. [pdf](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=c603928014c68840408f4ee642b5ff92973f0eed)
 
 
 Hu, Alan J., J. Cases, and Jin Yang. "Efficient generation of monitor circuits for GSTE assertion graphs." ICCAD-2003. International Conference on Computer Aided Design (IEEE Cat. No. 03CH37486). IEEE, 2003. [->](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=346891330aff7e055284526e1f36c876ac619116) [2](https://link.springer.com/chapter/10.1007/3-540-48153-2_7)
